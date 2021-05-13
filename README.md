@@ -3,9 +3,9 @@
 <!--
 **henri1i/henri1i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)](https://github.com/USERNAME/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henri1i&layout=compact)](https://github.com/henri1i/github-readme-stats)
 
-![Henri Borges' GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Henri Borges' GitHub stats](https://github-readme-stats.vercel.app/api?username=henri1i&show_icons=true&theme=radical)
 
 
 
