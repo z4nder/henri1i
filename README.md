@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
+<img align="right" src="https://agencefl.com/wp-content/uploads/2020/05/creation-site-internet-perpignan-1.png" height="350"/>
 
 ### Hi there, I'm Henri! 👋
 
