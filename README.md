@@ -11,10 +11,10 @@
 
 ## About me:
 
-- 🌱 I’m currently learning PHP and Node.js 
+- 🌱 I love to work and study PHP and Laravel
 - 👾 B.Sc. in Computer Science!
 - ⚡ Every day I try to improve my skills as a developer. 
-- 👯 And I really need a job! 🤣
+- 💼 Working at Clube do Valor
 - 📧 Want to contact me? My e-mail: henriborgessilva@gmail.com
 
 
