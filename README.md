@@ -2,11 +2,10 @@
 
 ### Hi there, I'm Henri! 👋
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 
 ## About me:
@@ -14,9 +13,7 @@
 - 🌱 I love to work and study PHP and Laravel
 - 👾 B.Sc. in Computer Science!
 - ⚡ Every day I try to improve my skills as a developer. 
-- 💼 Working at Clube do Valor
-- 📧 Want to contact me? My e-mail: henriborgessilva@gmail.com
-
+- 💼 Currently working at [Clube do Valor](https://www.instagram.com/clube.do.valor/) ❤️
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henri1i&layout=compact)](https://github.com/henri1i/github-readme-stats)
 
