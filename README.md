@@ -5,8 +5,6 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
 
 ## About me:
 - 🎂 20 years old!
@@ -14,8 +12,6 @@
 - 👾 3 period of B.Sc. in Computer Science!
 - ⚡ Every day I try to improve my skills as a developer. 
 - 💼 Currently working at [Clube do Valor](https://www.instagram.com/clube.do.valor/) <3
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henri1i&layout=compact)](https://github.com/henri1i/github-readme-stats)
 
 ### Other ways to chat with me:
 
