@@ -9,11 +9,11 @@
 
 
 ## About me:
-
+- 🎂 20 years old!
 - 🌱 I love to work and study PHP and Laravel
-- 👾 B.Sc. in Computer Science!
+- 👾 3 period of B.Sc. in Computer Science!
 - ⚡ Every day I try to improve my skills as a developer. 
-- 💼 Currently working at [Clube do Valor](https://www.instagram.com/clube.do.valor/) ❤️
+- 💼 Currently working at [Clube do Valor](https://www.instagram.com/clube.do.valor/) <3
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henri1i&layout=compact)](https://github.com/henri1i/github-readme-stats)
 
