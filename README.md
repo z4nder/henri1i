@@ -20,5 +20,5 @@
 [<img align="left" alt="Henri | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://instagram.com/henri1i
-[linkedin]: https://linkedin.com/in/henriborges
+[linkedin]: https://www.linkedin.com/in/henri1i/
 [whatsapp]: https://api.whatsapp.com/send?phone=5551995344321&text=Pode%20salvar%20meu%20contato%20como%20Henri!
