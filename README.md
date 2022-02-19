@@ -2,17 +2,16 @@
 
 ### Hi there, I'm Henri! 👋
 
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 ## About me:
 - 🎂 20 years old!
-- 🌱 I love to work and study PHP and Laravel
-- 👾 3 period of B.Sc. in Computer Science!
-- ⚡ Every day I try to improve my skills as a developer. 
-- 💼 Currently working at [Clube do Valor](https://www.instagram.com/clube.do.valor/) <3
+- 🌱 I love to study and work with PHP and Laravel.
+- 👾 3 semester of B.Sc. Computer Science!
+- ⚡ Daily trying to improve my skills.
+- 💼 Open to work!!!
 
 ### Other ways to chat with me:
 
