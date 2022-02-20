@@ -7,7 +7,7 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 ## About me:
-- 🎂 20 years old!
+- 🎂 19 years old!
 - 🌱 I love to study and work with PHP and Laravel.
 - 👾 3 semester of B.Sc. Computer Science!
 - ⚡ Daily trying to improve my skills.
