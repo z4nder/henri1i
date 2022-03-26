@@ -11,7 +11,6 @@
 - 🌱 I love to study and work with PHP and Laravel.
 - 👾 3 semester of B.Sc. Computer Science!
 - ⚡ Daily trying to improve my skills.
-- 💼 Open to work!!!
 
 ### Other ways to chat with me:
 
